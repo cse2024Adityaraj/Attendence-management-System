@@ -1,3 +1,15 @@
+#Adminsitration web *****
+
+
+
+
+
+![adm home](https://user-images.githubusercontent.com/114246727/210795004-ae0d9f5c-14ce-4787-9181-43a460275c17.png)
+
+ 
+
+
+
 ![klient akcja obecnosc](https://user-images.githubusercontent.com/114246727/210794206-b0019c2c-fefc-4e7b-9f82-ae01b032d3e2.png)
 @@@@@
 
