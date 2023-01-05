@@ -1,3 +1,4 @@
+![klient akcja obecnosc](https://user-images.githubusercontent.com/114246727/210794206-b0019c2c-fefc-4e7b-9f82-ae01b032d3e2.png)
 ![schemat glowny ulepszony](https://user-images.githubusercontent.com/114246727/210793565-aa84e6ee-7b7d-4de1-9031-c42c93ceb239.png)
 # Attendence-monitoring-System
 #Sync interns
